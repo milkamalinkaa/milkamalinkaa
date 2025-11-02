@@ -27,7 +27,7 @@
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=milkamalinkaa&label=Profile%20Views&color=ea73ff&style=flat" alt="Views" />
-    <img src="https://img.shields.io/badge/Repositories-4-ea73ff?style=flat" alt="Repositories"/>
+    <img src="https://img.shields.io/badge/Repositories-1-ea73ff?style=flat" alt="Repositories"/>
     <img src="https://img.shields.io/badge/Completed Bots-2-ea73ff?style=flat" alt="Bots"/>
 </p>
 
